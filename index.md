@@ -77,6 +77,7 @@ For questions about joining this CoP, please contact [StateFeedback@cms.hhs.gov]
       <th>Date</th>
       <th>Topics</th>
       <th>Documents</th>
+      <th>Updates</th>  
     </tr>
   </thead>
   <tbody>
@@ -89,9 +90,11 @@ For questions about joining this CoP, please contact [StateFeedback@cms.hhs.gov]
     <a href="https://events.gcc.teams.microsoft.com/event/672780d3-747d-49aa-9313-b9270a56bde8@fbdcedc1-70a9-414b-bfa5-c3063fc3395e">Meeting Recording</a><br> 
     <a href="assets/MES CoP_ New Medicaid Detailed Budget Table_Transcript.docx" target="_blank" rel="noopener noreferrer">Meeting Transcript</a><br> 
     <a href="assets/March MES CoP_Welcome.pptx" target="_blank" rel="noopener noreferrer">Medicaid Enterprise Systems (MES) Community of Practice (COP)</a><br> 
-    <a href="assets/MES-MDBT+CHIP and non-FIFO Presentation - State Facing (1).pptx" target="_blank" rel="noopener noreferrer">Streamlining Medicaid Enterprise Systems | Updates on the Medicaid Detailed Budget Table Process and Template</a><br>  
-        
+    <a href="assets/MES-MDBT+CHIP and non-FIFO Presentation - State Facing (1).pptx" target="_blank" rel="noopener noreferrer">Streamlining Medicaid Enterprise Systems | Updates on the Medicaid Detailed Budget Table Process and Template</a><br>    
     </td>
+    <td>*Rescheduled*
+    </td>
+    
   </tr>
   </tbody>
   </table>
