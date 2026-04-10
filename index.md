@@ -120,16 +120,6 @@ For questions about joining this CoP, please contact [StateFeedback@cms.hhs.gov]
     <a href="https://www.medicaid.gov/medicaid/data-systems/streamlining-medicaid-enterprise-systems-templates)">KB WAS HERE!</a><br> 
     </td>
   </tr>
-  <tr>
-    <td>Wednesday, April 15, 2026 | 2:00 PM - 3:00 PM EDT | Online event</td>
-    <td>
-      MDBT 2.0<br>
-    </td>
-    <td>
-    <a href="https://events.gcc.teams.microsoft.com/event/2dbae0ac-43f8-4dfe-b2c1-f4d37dc63c29@fbdcedc1-70a9-414b-bfa5-c3063fc3395e">Register Here</a><br> 
-    <a href="https://www.medicaid.gov/medicaid/data-systems/streamlining-medicaid-enterprise-systems-templates)">KB WAS HERE!</a><br> 
-    </td>
-  </tr>    
   </tbody>
   </table>
 
